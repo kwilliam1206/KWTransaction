@@ -1,0 +1,146 @@
+.logo {
+  font-family: "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+}
+.logo span {
+  color: firebrick;
+  font-weight: bold;
+}
+.logo span span {
+  color: white!important;
+  font-weight: normal;
+}
+#topnav .app-search .form-control,
+#topnav .app-search .form-control:focus {
+  background: rgba(255, 255, 255, 0.4);
+}
+#topnav .topbar-main {
+  background-color: black;
+}
+.form-group > label.required:after {
+  content: "*";
+  color: firebrick;
+  font-size: 16px;
+}
+.card-box {
+  padding: 40px;
+}
+#datatable-editable .fa {
+  font-size: 28px;
+}
+fieldset {
+  border: 1px solid #c2c2c2;
+  margin-bottom: 15px;
+}
+fieldset legend {
+  color: #a2a2a2;
+  font-size: 14px;
+  font-style: italic;
+  border-bottom: none;
+  width: inherit;
+  margin-bottom: 0;
+  margin-left: 10px;
+  padding: 0 5px;
+}
+fieldset .fieldset-content {
+  padding: 10px;
+}
+#userRoleList fieldset:first-child button.btn-warning {
+  display: none;
+}
+div.dataTables_filter {
+  text-align: right;
+}
+.account-pages {
+  background: url('../images/big/red-door.jpg') center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+}
+#topnav .navigation-menu > li .submenu.megamenu > li > a > span {
+  display: inline;
+  padding: 8px 10px;
+  font-size: 12px;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+#topnav .navigation-menu > li .submenu.megamenu > li > a > i {
+  color: #949ba1 !important;
+}
+.megamenu .divider,
+.submenu > li.divider {
+  height: 1px;
+  margin: 0 20px 10px;
+  overflow: hidden;
+  background-color: #e5e5e5 !important;
+}
+.page-title {
+  margin-left: 10px;
+}
+.input-group .select2-container {
+  position: relative;
+  z-index: 2;
+  float: left;
+  width: 100%;
+  margin-bottom: 0;
+  display: table;
+  table-layout: fixed;
+}
+.mention_name {
+  font-size: 12px;
+  color: #666;
+}
+.mention_username {
+  font-size: 12px;
+  color: #999;
+}
+.mention_image {
+  float: left;
+  margin-right: 5px;
+  border-radius: 3px;
+  width: 20px;
+  height: 20px;
+}
+.typeahead .active {
+  background-color: #a1e7d6;
+}
+.custom-modal {
+  background-color: #FFF;
+  width: 600px;
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  background-clip: padding-box;
+  text-align: left;
+}
+.custom-modal .close {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  color: #eeeeee;
+}
+.custom-modal .row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.custom-modal .form-horizontal .form-group {
+  margin-left: 0;
+  margin-right: 0;
+}
+.select2-container .select2-dropdown {
+  z-index: 10002;
+}
+.select2-container--default .select2-selection.select2-selection--single {
+  height: 38px;
+  border: 1px solid #E3E3E3;
+}
+.select2-container--default .select2-selection.select2-selection--single .select2-selection__rendered {
+  line-height: 36px;
+}
+.select2-container--default .select2-selection.select2-selection--single .select2-selection__arrow {
+  height: 36px;
+}
+.btn-group > .btn:not(:last-child) {
+  margin-right: 8px;
+}
+
+/*# sourceMappingURL=custom.css.map */

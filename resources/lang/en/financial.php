@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'financial_attributes' => 'Financial Attributes',
+    'add_attribute' => 'New Attribute',
+    'attribute_name' => 'Attribute Name',
+    'attribute_type' => 'Attribute Type',
+    'attribute_value' => 'Value',
+    'attribute_type_dollar' => '$',
+    'attribute_type_percent' => '%',
+    'attribute_type_number' => '#',
+    'associate_fee' => 'Associate Fee',
+    'new_agent_fee' => 'New Agent Fee',
+    'renewal_fee' => 'Renewal Fee',
+    'agent_monthly_fee' => 'Agent Monthly Fee',
+    'admin_monthly_fee' => 'Admin Monthly Fee',
+    'eas_fee' => 'EAS Fee',
+    'sla_fee' => 'SLA Fee',
+    'growth_share_fee' => 'Growth Share Fee',
+    'growth_share_fee_to_kwri' => 'Growth Share Fee to KWRI',
+    'royalty_fee' => 'Royalty Fee',
+    'royalty_fee_to_region' => 'Royalty Fee to Region',
+    'royalty_fee_to_worldwide' => 'Royalty Fee to Worldwide',
+    'agent_commission' => 'Agent Commission',
+    'agent_split' => 'Agent Split',
+    'mc_split' => 'MC Split',
+    'agent_cap' => 'Agent Cap',
+];

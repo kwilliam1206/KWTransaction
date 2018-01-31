@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'profile' => 'Profile',
+    'settings' => 'Settings',
+    'lock_screen' => 'Lock Screen',
+    'logout' => 'Logout',
+    'payments' => 'Payments',
+    'transactions' => 'Transactions',
+    'reports' => 'Reports',
+    'dashboard' => 'Dashboard',
+    'users' => 'Users',
+    'find_user' => 'Find User',
+    'add_user' => 'Add New User',
+    'client' => 'Client',
+    'agent' => 'Agent',
+    'contacts' => 'Contacts',
+    'regions' => 'Regions',
+    'find_region' => 'Find Region',
+    'add_region' => 'Add New Region',
+    'offices' => 'Offices',
+    'find_office' => 'Find Office',
+    'add_office' => 'Add New Office',
+    'admin' => 'Admin',
+    'close' => 'Monthly Close',
+];
